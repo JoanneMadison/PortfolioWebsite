@@ -154,3 +154,7 @@ body {
   color: white;
 
 }
+
+.profile-content-wrapper p{
+  text-indent: 25px;
+}
